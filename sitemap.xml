@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/david-blaine.html</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/20210821-pratica-deliberada.html</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts.html</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pr%C3%A1tica-deliberada.html</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags.html</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/cal-newport.html</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/estudo.html</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts.html</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/produtividade-e-foco.html</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags.html</loc>
     <lastmod>2021-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/20210711-tres-licoes-para-home-office.html</loc>
@@ -39,9 +48,6 @@
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/20210213-nao-siga-sua-paixao.html</loc>
-    <lastmod>2021-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/pr%C3%A1tica-deliberada.html</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/20210123-mude-sua-visao-sobre-gestao-de-tempo.html</loc>
