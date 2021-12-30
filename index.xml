@@ -15,6 +15,26 @@
     
     
     <item>
+      <title>Lista de leituras</title>
+      <link>/reading-list.html</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/reading-list.html</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          A regra é não ter regras, de Reed Hastings e Erin Meyer. Líderes se servem por último: Como construir equipes seguras e confiantes, de Simon Sinek. How to become a straight-A student, de Cal Newport. So good they can&amp;rsquo;t ignore you, de Cal Newport. Mais rápido e melhor: os segredos da produtividade na vida e nos negócios, de Charles Duhigg. O poder do hábito, de Charles Duhigg. Deep work, de Cal Newport.
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Organize sua carreira como se fosse uma empresa ambidestra</title>
       <link>/posts/20211113-carreira-ambidestra.html</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
@@ -111,8 +131,8 @@ Grafos e recomendação de produtos: comparando Spark GraphFrames com Neo4j Publ
         
         
           Cientista de dados, pesquisador, esposo, pai. Não nessa ordem.
-Engenheiro Eletrônico por formação (UFPE/2016), concluí o mestrado em Eng. Elétrica pela UFPE em 2018, na área de processamento de sinais. Em 2018 dei início ao doutorado, em que pesquiso extensões de processamento de sinais e machine learning sobre grafos.
-Fui professor substituto na UFPE, ministrando cursos de Cálculo e Estatística, e professor efetivo na Uninassau (Recife) em disciplinas para turmas de Eng.
+Engenheiro Eletrônico por formação (UFPE/2016), concluí o mestrado em Eng. Elétrica pela UFPE em 2018, na área de processamento de sinais. Em 2018 dei início ao doutorado, em que pesquiso extensões de processamento de sinais sobre grafos.
+Fui professor substituto na UFPE, ministrando cursos de Cálculo e Estatística, e professor efetivo na Uninassau (Recife) em disciplinas para turmas de Eng. e Ciência da Computação, Sistemas da Informação e Eng.
           
         
         </description>
